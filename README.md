@@ -30,7 +30,7 @@ The biggest challenge was using and remembering all of the Javascript that we ha
 
 ## Link to deployed site: 
 
-[https://Babylex710.github.io/Rhythm-and-booze/] (https://Babylex710.github.io/Rhythm-and-booze/)
+[https://all-ram.github.io/RhythmBooze/] (https://all-ram.github.io/RhythmBooze/)
 
 ## Link to Github Repo:
  [https://github.com/all-ram/RhythmBooze] (https://github.com/all-ram/RhythmBooze)
